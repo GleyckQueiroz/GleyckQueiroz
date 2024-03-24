@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff05de&size=35&center=true&vCenter=true&width=1000&lines=Hi!+i'm+Gleyck+Queiroz;I'm+18+years+old;I+am+from+Brazil,+Serra-ES;And+this+is+my+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&width=1000&lines=Hi!+i'm+Gleyck+Queiroz;I'm+18+years+old;I+am+from+Brazil,+Serra-ES;And+this+is+my+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 <div style= "display: inline_block;">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true"/>
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleyckQueiroz&theme=midnight-purple"
 </div>
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleyckQueiroz&bg_color=000000&color=ff05de&line=ffffff&point=f500a7&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleyckQueiroz&bg_color=000000&color=9745f5&line=ffffff&point=9745f5&area=true&hide_border=true"/>
 </div>
   
  ### Currently studying:
@@ -32,4 +32,5 @@ Feel free to take a look at my repositories to see what I'm learning and working
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
+<!-- outra cor para o header e footer :8F0D87-->
