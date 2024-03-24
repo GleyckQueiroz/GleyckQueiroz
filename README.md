@@ -1,5 +1,7 @@
- ### Hi! i am Gleyck Queiroz
+<!-- ### Hi! i am Gleyck Queiroz -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header">
 ##
+
 <div style= "display: inline_block;">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true"/>
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleyckQueiroz&theme=midnight-purple"
@@ -30,3 +32,4 @@ Feel free to take a look at my repositories to see what I'm learning and working
 
 <br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
