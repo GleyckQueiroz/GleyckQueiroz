@@ -22,3 +22,8 @@
 I am currently in an intensive learning process. I'm focused on improving my skills in HTML, CSS and JavaScript.
 I'm particularly interested in front-end development and look forward to creating interactive and visually appealing user interfaces.
 Feel free to take a look at my repositories to see what I'm learning and working on. If you have any feedback or would like to collaborate on a project, please get in touch!
+
+<br>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleyckQueiroz&bg_color=000000&color=ff05de&line=ffffff&point=f500a7&area=true&hide_border=true"/>
+</div>
