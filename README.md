@@ -1,4 +1,4 @@
-### Hi! i am Gleyck Queiroz
+ ### Hi! i am Gleyck Queiroz
 ##
 <div style= "display: inline_block;">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true"/>
@@ -7,6 +7,9 @@
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleyckQueiroz&bg_color=000000&color=ff05de&line=ffffff&point=f500a7&area=true&hide_border=true"/>
 </div>
+  
+ ### Currently studying:
+
 <div style="display: inline_block;"><br>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
