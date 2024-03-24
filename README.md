@@ -1,8 +1,4 @@
 ### Hi! i am Gleyck Queiroz
-<!--
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 😄 Pronouns: He/Him
--->
 ##
 <div style= "display: inline_block;">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true"/>
@@ -26,18 +22,3 @@
 I am currently in an intensive learning process. I'm focused on improving my skills in HTML, CSS and JavaScript.
 I'm particularly interested in front-end development and look forward to creating interactive and visually appealing user interfaces.
 Feel free to take a look at my repositories to see what I'm learning and working on. If you have any feedback or would like to collaborate on a project, please get in touch!
-
-
-
-
-
-
-
-
-
-
-  
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true)](https://github.com/GleyckQueiroz/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GleyckQueiroz&theme=midnight-purple)](https://github.com/GleyckQueiroz/github-readme-stats)
--->
