@@ -4,7 +4,9 @@
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true"/>
   <img height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GleyckQueiroz&theme=midnight-purple"
 </div>
-
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleyckQueiroz&bg_color=000000&color=ff05de&line=ffffff&point=f500a7&area=true&hide_border=true"/>
+</div>
 <div style="display: inline_block;"><br>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -24,6 +26,4 @@ I'm particularly interested in front-end development and look forward to creatin
 Feel free to take a look at my repositories to see what I'm learning and working on. If you have any feedback or would like to collaborate on a project, please get in touch!
 
 <br>
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GleyckQueiroz&bg_color=000000&color=ff05de&line=ffffff&point=f500a7&area=true&hide_border=true"/>
-</div>
+
