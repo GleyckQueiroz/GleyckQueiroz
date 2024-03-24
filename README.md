@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header">
 
- ### Hi! i am Gleyck Queiroz, and this is my profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff05de&size=35&center=true&vCenter=true&width=1000&lines=Hi!+i'm+Gleyck+Queiroz;I'm+18+years+old;I+am+from+Brazil,+Serra-ES;And+this+is+my+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ##
 <div style= "display: inline_block;">
   <img height="45%" src="https://github-readme-stats.vercel.app/api?username=GleyckQueiroz&theme=midnight-purple&show_icons=true"/>
